@@ -9,38 +9,20 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>1. Introduction:</p>
-        <p>Hello there, I am Angelo Miguel the owner of this blog, and currently
-          a computer engineering student. My hobbies are playing card games like
-          Legends of runterra and yugioh with a fascination around lore and art 
-          of the cards themselves. Of course when it comes to how to play one I 
-          prefer a longer games with more back and fort.
-          </p> 
-
-        <p>In terms of music I don't necessarily have a favorite I usually find
-          something when going through youtube and eventually like it. In terms
-          of favorite it would have to be Will wood's song titled "kitchen floor".
+        <h2>My Impression on my 1st Month as a 3rd-year BSCPE Student</h2>
+        <p> Through out these pass days I can safetly say that being a CPE student
+          was the right choice. I feel as if I am now learning things that are actually
+          useful in my profession as well as things that get me closer to my goal of making
+          games. While there are some problems here and there with the schedule and programs
+          required it all seemed to be worth it in the end but not with out hardship.
         </p>
 
-        <p>My favorite food would have to be buttered shrimp because it could be
-          paired up with a lot of things. Most of my favorites would have to be 
-          seafood related may it be lobster, crab or shrimp.
-        </p>
-
-        <p>2. Why did I take up Computer Engineering ?</p>
-
-        <p>I took up Computer Engineering because I wanted to make videogames 
-          someday. Of course many other professions would make that dream a reality
-          but I also wanter more flexibility in what I can do with computers, in a 
-          sense I wanted to be overly prepared for this.
-        </p>
-
-        <p>3. What career do I see myself in after graduation ?</p>
-
-        <p>I see myself being part of a game development team working in rig modeling
-          or animation and logic functions. I would prefer to have a job where I get 
-          to see and interact with what I am making and due to the nature of game 
-          development this task is a combination of front and back end programming.
+        <p>These hardships include the various bugs you get from downloadign programs, the 
+          hardware requirements that are not easy to find that being the logics gates we need,
+          the logic reqruied to solve certain problems and the schedule given to us by the school.
+          Don't get me wrong its not that its bad but rather unorthodox as the time given to us is 
+          from morning till night. However this is all still manageable as the lessons gained will
+          eventually create a solid foundation for us to have in our professional careers.
         </p>
         
         <p>
