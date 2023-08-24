@@ -24,6 +24,7 @@ export default function Home() {
           from morning till night. However this is all still manageable as the lessons gained will
           eventually create a solid foundation for us to have in our professional careers.
         </p>
+        <p>I know now how to update my website</p>
         
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
